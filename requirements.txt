@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+mysql-connector-python
+mysqlclient
+requests
+bcrypt
